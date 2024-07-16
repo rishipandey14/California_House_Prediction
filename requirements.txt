@@ -1,4 +1,4 @@
-python_version>=3.7,<3.11
+python_version==3.11.7
 Flask
 scikit-learn
 pandas==2.2.2
